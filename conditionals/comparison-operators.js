@@ -1,5 +1,7 @@
 /**
- * When writing conditional statements, sometimes we need to use different types of operators to compare values. These operators are called comparison operators.
+ * Comparison Operators
+ 
+When writing conditional statements, sometimes we need to use different types of operators to compare values. These operators are called comparison operators.
 
 Here is a list of some handy comparison operators and their syntax:
 
